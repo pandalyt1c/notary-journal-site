@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pandalyt1c.github.io/notary-journal-site/sitemap.xml
